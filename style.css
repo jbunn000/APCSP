@@ -1,0 +1,28 @@
+/* Style page */
+
+/* Headers */
+
+h1 {
+    text-align: center;
+    color: red;
+    font-size: 30px;
+    font-family: cursive, sans-serif;
+    margin: 10px;
+}
+
+h3 {
+   font-family: georgia;
+   text-align: center; 
+}
+
+/*body and body-functions*/
+
+pg {
+    font-family: georgia, sans-serif;
+}
+
+/* Class and IDs */
+
+.body {
+    background-color: turquoise;
+}
